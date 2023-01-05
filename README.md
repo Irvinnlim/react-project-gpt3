@@ -2,10 +2,10 @@
 This is a project that I worked on with Javascript Mastery's youtube video to emulate the chat-gpt3 sitemap to hone my React skills.
 
 # Technologies
-React
-HTML
-Javascript
-CSS
+- React
+- HTML
+- Javascript
+- CSS
 
 # Preview
 Click https://irvinnlim.github.io/react-project-gpt3
